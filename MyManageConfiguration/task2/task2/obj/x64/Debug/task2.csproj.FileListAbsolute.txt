@@ -1,0 +1,16 @@
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\bin\Debug\task2.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\bin\Debug\task2.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\task2.csproj.AssemblyReference.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\UI\SplashScreen.g.cs
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\UI\AboutPage.g.cs
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\UI\StartPage.g.cs
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\task2_MarkupCompile.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\task2_MarkupCompile.lref
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\UI\SplashScreen.baml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\UI\AboutPage.baml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\UI\StartPage.baml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\task2.g.resources
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\task2.csproj.CoreCompileInputs.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\task2.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MyManageConfiguration\task2\task2\obj\x64\Debug\task2.pdb
