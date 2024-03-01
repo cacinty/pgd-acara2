@@ -1,0 +1,6 @@
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ConstructionTool\ConstructionTool\bin\Debug\ConstructionTool.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ConstructionTool\ConstructionTool\bin\Debug\ConstructionTool.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ConstructionTool\ConstructionTool\obj\x64\Debug\ConstructionTool.csproj.CoreCompileInputs.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ConstructionTool\ConstructionTool\obj\x64\Debug\ConstructionTool.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ConstructionTool\ConstructionTool\obj\x64\Debug\ConstructionTool.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ConstructionTool\ConstructionTool\obj\x64\Debug\ConstructionTool.csproj.AssemblyReference.cache
