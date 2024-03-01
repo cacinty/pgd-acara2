@@ -1,0 +1,5 @@
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MapLayout\MapLayout\obj\x64\Debug\MapLayout.csproj.CoreCompileInputs.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MapLayout\MapLayout\bin\Debug\MapLayout.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MapLayout\MapLayout\bin\Debug\MapLayout.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MapLayout\MapLayout\obj\x64\Debug\MapLayout.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\MapLayout\MapLayout\obj\x64\Debug\MapLayout.pdb
