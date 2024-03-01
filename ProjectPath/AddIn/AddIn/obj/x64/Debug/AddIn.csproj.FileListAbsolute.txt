@@ -1,0 +1,6 @@
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ProjectPath\AddIn\AddIn\bin\Debug\AddIn.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ProjectPath\AddIn\AddIn\bin\Debug\AddIn.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ProjectPath\AddIn\AddIn\obj\x64\Debug\AddIn.csproj.CoreCompileInputs.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ProjectPath\AddIn\AddIn\obj\x64\Debug\AddIn.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ProjectPath\AddIn\AddIn\obj\x64\Debug\AddIn.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\ProjectPath\AddIn\AddIn\obj\x64\Debug\AddIn.csproj.AssemblyReference.cache

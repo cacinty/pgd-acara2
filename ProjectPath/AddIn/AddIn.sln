@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddIn", "AddIn\AddIn.csproj", "{2AE6903D-DB52-4B52-BE8E-B26B87988D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE6903D-DB52-4B52-BE8E-B26B87988D59}.Debug|x64.ActiveCfg = Debug|x64
+		{2AE6903D-DB52-4B52-BE8E-B26B87988D59}.Debug|x64.Build.0 = Debug|x64
+		{2AE6903D-DB52-4B52-BE8E-B26B87988D59}.Release|x64.ActiveCfg = Release|x64
+		{2AE6903D-DB52-4B52-BE8E-B26B87988D59}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F505A3EA-3642-402D-AB40-4A82115143FA}
+	EndGlobalSection
+EndGlobal
