@@ -1,0 +1,6 @@
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadFirstAddin\LoadFirstAddin\bin\Debug\LoadFirstAddin.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadFirstAddin\LoadFirstAddin\bin\Debug\LoadFirstAddin.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadFirstAddin\LoadFirstAddin\obj\x64\Debug\LoadFirstAddin.csproj.CoreCompileInputs.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadFirstAddin\LoadFirstAddin\obj\x64\Debug\LoadFirstAddin.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadFirstAddin\LoadFirstAddin\obj\x64\Debug\LoadFirstAddin.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadFirstAddin\LoadFirstAddin\obj\x64\Debug\LoadFirstAddin.csproj.AssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadFirstAddin", "LoadFirstAddin\LoadFirstAddin.csproj", "{96594D6E-2BC5-4E07-8ACC-26D82AFCF895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96594D6E-2BC5-4E07-8ACC-26D82AFCF895}.Debug|x64.ActiveCfg = Debug|x64
+		{96594D6E-2BC5-4E07-8ACC-26D82AFCF895}.Debug|x64.Build.0 = Debug|x64
+		{96594D6E-2BC5-4E07-8ACC-26D82AFCF895}.Release|x64.ActiveCfg = Release|x64
+		{96594D6E-2BC5-4E07-8ACC-26D82AFCF895}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03AF945F-0473-441E-9422-86B3E57F2456}
+	EndGlobalSection
+EndGlobal
