@@ -1,0 +1,6 @@
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\EditWithInspector\EditWithInspector\bin\Debug\EditWithInspector.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\EditWithInspector\EditWithInspector\bin\Debug\EditWithInspector.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\EditWithInspector\EditWithInspector\obj\x64\Debug\EditWithInspector.csproj.AssemblyReference.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\EditWithInspector\EditWithInspector\obj\x64\Debug\EditWithInspector.csproj.CoreCompileInputs.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\EditWithInspector\EditWithInspector\obj\x64\Debug\EditWithInspector.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\EditWithInspector\EditWithInspector\obj\x64\Debug\EditWithInspector.pdb
