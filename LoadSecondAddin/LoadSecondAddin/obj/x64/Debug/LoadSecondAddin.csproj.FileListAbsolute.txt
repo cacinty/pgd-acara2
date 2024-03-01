@@ -1,0 +1,11 @@
+D:\Semester 2\PGD\ACARA 2\PRAK\LoadSecondAddin\LoadSecondAddin\bin\Debug\LoadSecondAddin.dll
+D:\Semester 2\PGD\ACARA 2\PRAK\LoadSecondAddin\LoadSecondAddin\bin\Debug\LoadSecondAddin.pdb
+D:\Semester 2\PGD\ACARA 2\PRAK\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.csproj.CoreCompileInputs.cache
+D:\Semester 2\PGD\ACARA 2\PRAK\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.dll
+D:\Semester 2\PGD\ACARA 2\PRAK\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadSecondAddin\LoadSecondAddin\bin\Debug\LoadSecondAddin.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadSecondAddin\LoadSecondAddin\bin\Debug\LoadSecondAddin.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.csproj.AssemblyReference.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.csproj.CoreCompileInputs.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.pdb

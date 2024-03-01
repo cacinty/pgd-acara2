@@ -1,0 +1,33 @@
+﻿<ArcGIS defaultAssembly="LoadSecondAddin.dll" defaultNamespace="LoadSecondAddin" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{d78743c5-2ae9-40d4-9dff-44e95f34fc51}" version="1.0" desktopVersion="2.8.29751">
+    <Name>LoadSecondAddin</Name>
+    <Description>LoadSecondAddin description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>M S I</Author>
+    <Company>Acme</Company>
+    <Date>2/26/2024 2:45:58 PM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <!-- ** ADD ** -->
+  <modules>
+	  <insertModule id="LoadSecondAddin_Module" className="Module1" autoLoad="false" caption="Module1">
+		  <controls>
+			  <!-- add your controls here -->
+			  <button id="LoadSecondAddin_Button2" caption="Add-in 2 Button" className="Button2" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue32.png">
+				  <tooltip heading="Tooltip Heading">
+					  Tooltip text<disabledText/>
+				  </tooltip>
+			  </button>
+		  </controls>
+	  </insertModule>
+	  <updateModule refID="LoadFirstAddin_Module">
+		  <groups>
+			  <updateGroup refID="LoadFirstAddin_Group1">
+				  <insertButton refID="LoadSecondAddin_Button2"/>
+			  </updateGroup>
+		  </groups>
+	  </updateModule>
+  </modules>
+</ArcGIS>
