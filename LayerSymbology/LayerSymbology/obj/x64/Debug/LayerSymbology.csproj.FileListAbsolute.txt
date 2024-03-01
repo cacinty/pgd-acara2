@@ -1,0 +1,6 @@
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LayerSymbology\LayerSymbology\bin\Debug\LayerSymbology.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LayerSymbology\LayerSymbology\bin\Debug\LayerSymbology.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LayerSymbology\LayerSymbology\obj\x64\Debug\LayerSymbology.csproj.AssemblyReference.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LayerSymbology\LayerSymbology\obj\x64\Debug\LayerSymbology.csproj.CoreCompileInputs.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LayerSymbology\LayerSymbology\obj\x64\Debug\LayerSymbology.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 2\Project\LayerSymbology\LayerSymbology\obj\x64\Debug\LayerSymbology.pdb
